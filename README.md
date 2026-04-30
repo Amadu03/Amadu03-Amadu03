@@ -9,20 +9,20 @@
       <br>
       <h3>👨‍💻 À propos de moi</h3>
       <ul>
-        <li> <b>Fresh Graduate</b> : Diplômé de <b>NaN Digital Academy</b> (Promotion 2025).</li>
-        <li> <b>Expertise</b> : Spécialisé en <b>Angular</b> et dans le développement d'architectures robustes.</li>
-        <li><b>Apprentissage</b> : Focus actuel sur la logique de programmation avancée.</li>
-        <li><b>Langues</b> : Français & Anglais.</li>
+        <li>🎓 <b>Fresh Graduate</b> : Diplômé de <b>NaN Digital Academy</b> (Promotion 2025).</li>
+        <li>🚀 <b>Expertise</b> : Spécialisé en <b>Angular</b> et dans le développement d'architectures robustes.</li>
+        <li>🧠 <b>Apprentissage</b> : Focus actuel sur la logique de programmation avancée.</li>
+        <li>💬 <b>Langues</b> : Français & Anglais.</li>
       </ul>
       <br>
-      <h3> Let's Connect</h3>
+      <h3>📫 Let's Connect</h3>
       <a href="mailto:adioulde@proton.me"><img src="https://img.shields.io/badge/Email-adioulde@proton.me-blue?style=flat-square&logo=protonmail"></a>
       <a href="https://github.com/Amadu03"><img src="https://img.shields.io/badge/GitHub-Amadu03-black?style=flat-square&logo=github"></a>
     </td>
     <td width="35%" align="center" valign="top">
       <br>
-      <!-- Utilisation de votre nouvel avatar professionnel -->
-      <img src="https://github.com/Amadu03.png" width="220" style="border-radius: 50%; border: 4px solid #30363d;">
+      <!-- Lien vers l'avatar professionnel -->
+      <img src="http://googleusercontent.com/image_collection/image_retrieval/11289725366291024723_0" width="220" style="border-radius: 50%; border: 4px solid #58a6ff; box-shadow: 0 10px 20px rgba(0,0,0,0.2);">
       <br><br>
       <img src="https://img.shields.io/badge/Status-Available_for_Work-success?style=for-the-badge">
     </td>
@@ -31,7 +31,7 @@
 
 <br>
 
-###  Mon Stack Technique
+### 🛠️ Mon Stack Technique
 
 <p align="left">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
