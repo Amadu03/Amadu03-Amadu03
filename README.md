@@ -1,9 +1,5 @@
 <div align="center">
 
-<!-- Bannière Design Moderne -->
-<img src="https://capsule-render.vercel.app/render?type=rect&color=0d1117&height=150&section=header&text=Amadou%20Dioulde&fontSize=60&fontColor=ffffff&desc=Software%20Engineer%20|%20Fullstack%20Web%20Developer&descSize=20&descAlignY=70" />
-
-<br/>
 
 <!-- Avatar Professionnel -->
 <p align="center">
@@ -34,8 +30,7 @@ Je suis un développeur passionné par la création d'interfaces fluides et d'ar
       <h4>💻 Frontend Development</h4>
       <ul>
         <li>Angular & TypeScript</li>
-        <li>Tailwind CSS & Shadcn/ui</li>
-        <li>React & Next.js</li>
+        <li>PrimeNG & PrimeICONS</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -54,7 +49,7 @@ Je suis un développeur passionné par la création d'interfaces fluides et d'ar
 ### 🛠️ My Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,ts,nodejs,postgres,ubuntu,git,tailwind,figma" />
+  <img src="https://skillicons.dev/icons?i=angular,ts,nodejs,postgres,ubuntu,git,figma" />
 </p>
 
 ---
