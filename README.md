@@ -76,8 +76,4 @@ Actuellement basé à **Abidjan**, je suis ouvert aux projets en remote ou aux o
   </a>
 </p>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/render?type=slice&color=0d1117&height=30&section=footer" />
-
 </div>
