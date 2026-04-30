@@ -6,7 +6,65 @@
 </p>
 
 <table border="0">
-  <tr>
+  <tr><div align="center">
+
+<!-- Bannière style Hacker/Matrix -->
+<img src="https://capsule-render.vercel.app/render?type=rect&color=000000&height=100&section=header&text=AMADOU%20DIULDE&fontSize=50&fontColor=00FF00&animation=twinkling" />
+
+<br>
+
+<!-- Avatar GitHub réel -->
+<img src="https://github.com/Amadu03.png" width="200" style="border-radius: 50%;" />
+
+<br>
+
+# 🟢 SYSTEM STATUS: OPERATIONAL
+
+[![](https://img.shields.io/badge/ROLE-FULLSTACK_DEVELOPER-00FF00?style=for-the-badge&logoColor=black)](https://github.com/Amadu03)
+[![](https://img.shields.io/badge/LOCATION-ABIDJAN-00FF00?style=for-the-badge&logoColor=black)](https://github.com/Amadu03)
+
+</div>
+
+---
+
+### 📂 > WHOAMI.exe
+
+*   **🎓 Education**: Diplômé de **NaN Digital Academy** (2025).
+*   **🚀 Stack**: Expert **Angular** et passionné par les architectures **Node.js**.
+*   **🧠 Current_Process**: Perfectionnement de la logique de programmation avancée.
+*   **💬 Protocols**: Bilingue Français & Anglais.
+
+### 🛠️ > TECH_STACK.sh
+
+| Category | Tools |
+| :--- | :--- |
+| **Frontend** | `Angular`, `TypeScript`, `Tailwind CSS` |
+| **Backend** | `Node.js`, `PostgreSQL` |
+| **OS/Tools** | `Ubuntu Linux`, `Git`, `Docker` |
+
+### 📟 > TERMINAL_STATS
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amadu03&show_icons=true&theme=terminal&hide_border=false" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amadu03&layout=compact&theme=terminal" alt="Top Languages" />
+</div>
+
+---
+
+### 📫 > CONNECT.log
+
+<div align="left">
+
+- **Email**: `adioulde@proton.me`
+- **GitHub**: [@Amadu03](https://github.com/Amadu03)
+- **Status**: [![](https://img.shields.io/badge/AVAILABLE_FOR_WORK-00FF00?style=flat-square&logoColor=black)](mailto:adioulde@proton.me)
+
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00FF00&height=60&section=footer" />
+</p>
     <!-- SECTION TEXTE (TERMINAL UI) -->
     <td width="65%" valign="top" align="left" style="background-color: #0d1117; border: 1px solid #00FF00; padding: 20px; border-radius: 10px;">
       <code style="color: #00FF00; font-size: 1.5em;">> WHOAMI</code>
