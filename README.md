@@ -6,7 +6,7 @@
   <img src="https://github.com/Amadu03.png" width="160" style="border-radius: 50%; border: 2px solid #58a6ff;" />
 </p>
 
-# 👋 Welcome to my Digital Space
+# 👋 Hey! i'm AMADOU DIOULDE
 
 <p align="center">
   <a href="https://github.com/Amadu03">
