@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER DYNAMIQUE TYPE HUD (Heads-Up Display) -->
-<img src="https://capsule-render.vercel.app/render?type=distort&color=000000&height=120&section=header&text=AMADOU%20DIULDE&fontSize=50&fontColor=00FF00&animation=fadeIn" />
+<img src="[https://capsule-render.vercel.app/render?type=distort&color=000000&height=120&section=header&text=AMADOU%20DIULDE&fontSize=50&fontColor=00FF00&animation=fadeIn](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmdwNDR2ZWNveDNwb21tdXIzb2Ryc2dzOXU1Mjg3a241bTJmaDJyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q9aBxHn9fTqKs/giphy.gif)" />
 
 <br/>
 
